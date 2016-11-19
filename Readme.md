@@ -39,3 +39,7 @@ int factsecond(int n,int rst)
 $$
 F/A=\left\{\frac{(1+i)^n-1}i\right\}
 $$
+
+$$
+\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}
+$$
