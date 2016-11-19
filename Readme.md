@@ -36,3 +36,6 @@ int factsecond(int n,int rst)
 	return reasult;
 }
 ```
+$$
+F/A=\left\{\frac{(1+i)^n-1}i\right\}
+$$
