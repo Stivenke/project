@@ -34,4 +34,8 @@ int factsecond(int n,int rst)
 		reasult=factsecond(n-1,n*rst);
 	return reasult;
 }
-// 在主分支上修改
+<<<<<<< HEAD
+// 这只是一个合并冲突测试
+=======
+// 这是一个合并分支测试
+>>>>>>> fea
