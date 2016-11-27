@@ -34,3 +34,4 @@ int factsecond(int n,int rst)
 		reasult=factsecond(n-1,n*rst);
 	return reasult;
 }
+// 在主分支上修改
